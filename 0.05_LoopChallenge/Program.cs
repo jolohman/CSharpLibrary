@@ -10,20 +10,20 @@ namespace _0._05_LoopChallenge
     {
         static void Main(string[] args)
         {
-        //    for (int i = 0; i < 100; i = i + 5)
-        //    {
-        //        Console.WriteLine(i);
-        //    }
-        //    Console.Beep();
-        //    Console.WriteLine("Blast Off!");
+            //    for (int i = 0; i < 100; i = i + 5)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //    Console.Beep();
+            //    Console.WriteLine("Blast Off!");
 
-        //    for (int i = 100; i > 0; i-- )
-        //    {
-        //        Console.WriteLine(i);
-        //    }
-        //    Console.Beep();
-        //    Console.WriteLine("Blast Off!");
-        //    Console.ReadLine();
+            //    for (int i = 100; i > 0; i-- )
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //    Console.Beep();
+            //    Console.WriteLine("Blast Off!");
+            //    Console.ReadLine();
 
             for (int i = 1; i < 100; i++)
             {
