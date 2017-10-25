@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\0.05_Switchs\bin\Debug\0.05_Switchs.exe.config
+C:\DotNetProjects\CSharpLibrary\0.05_Switchs\bin\Debug\0.05_Switchs.exe
+C:\DotNetProjects\CSharpLibrary\0.05_Switchs\bin\Debug\0.05_Switchs.pdb
+C:\DotNetProjects\CSharpLibrary\0.05_Switchs\obj\Debug\0.05_Switchs.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\0.05_Switchs\obj\Debug\0.05_Switchs.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.05_Switchs\obj\Debug\0.05_Switchs.exe
+C:\DotNetProjects\CSharpLibrary\0.05_Switchs\obj\Debug\0.05_Switchs.pdb

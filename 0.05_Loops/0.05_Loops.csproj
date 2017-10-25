@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EF647970-BD7B-40F8-91C6-0E5C16FD4DE4}</ProjectGuid>
+    <ProjectGuid>{B955B500-7674-4D5B-A49A-D3BE60A401C0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_0._04_ConditionalsBankWithConversion</RootNamespace>
-    <AssemblyName>0.04_ConditionalsBankWithConversion</AssemblyName>
+    <RootNamespace>_0._05_Loops</RootNamespace>
+    <AssemblyName>0.05_Loops</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

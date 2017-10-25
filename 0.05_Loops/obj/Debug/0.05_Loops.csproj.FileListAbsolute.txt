@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\0.05_Loops\bin\Debug\0.05_Loops.exe.config
+C:\DotNetProjects\CSharpLibrary\0.05_Loops\bin\Debug\0.05_Loops.exe
+C:\DotNetProjects\CSharpLibrary\0.05_Loops\bin\Debug\0.05_Loops.pdb
+C:\DotNetProjects\CSharpLibrary\0.05_Loops\obj\Debug\0.05_Loops.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.05_Loops\obj\Debug\0.05_Loops.exe
+C:\DotNetProjects\CSharpLibrary\0.05_Loops\obj\Debug\0.05_Loops.pdb
