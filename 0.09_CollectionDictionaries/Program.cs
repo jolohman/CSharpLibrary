@@ -26,6 +26,21 @@ namespace _0._09_CollectionDictionaries
 
             //Silver
 
+            Dictionary<string, string[]> awardNominees = new Dictionary<string, string[]>()
+            {
+                { "2006", new string[] {"Happy Feet", "Cars", "Monster House"} },
+                { "2007", new string[] { "Ratatouille", "Persepolis", "Surf's U" } },
+                { "2008", new string[] {"Wall-E", "Bolt", "Kung Fu Panda"} },
+                { "2009", new string[] {"Up","Mr. Fantastic Fox", "Coraline"} },
+                { "2010", new string[] {"Toy Story 3", "How to Train your Dragon", "The Illusionist"} }
+
+            };
+
+            foreach (var nominee in awardNominees)
+            {
+                Console.WriteLine($"Nominees for {nominee.Key}: {nominee.Value[0]}, {nominee.Value[1]}, {nominee.Value[2]}");
+            }
+
 
             Console.ReadLine();
 
