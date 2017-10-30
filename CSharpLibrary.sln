@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_Constructors", "0.10_C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_ConstructorChallenge", "0.10_ConstructorChallenge\0.10_ConstructorChallenge.csproj", "{0B396325-0F50-4E46-9FCC-5A5C42FD1ECD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_OOP_Game", "0.11_OOP_Game\0.11_OOP_Game.csproj", "{F46E49D7-50BA-447F-87F5-C51EE7DD629E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{0B396325-0F50-4E46-9FCC-5A5C42FD1ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B396325-0F50-4E46-9FCC-5A5C42FD1ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B396325-0F50-4E46-9FCC-5A5C42FD1ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46E49D7-50BA-447F-87F5-C51EE7DD629E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46E49D7-50BA-447F-87F5-C51EE7DD629E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46E49D7-50BA-447F-87F5-C51EE7DD629E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46E49D7-50BA-447F-87F5-C51EE7DD629E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
