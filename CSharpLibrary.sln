@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_MethodsOverloading", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.13_GetterSetters", "0.13_GetterSetters\0.13_GetterSetters.csproj", "{FBC7EB1F-B7CF-45FC-A596-AB8BB167F5C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_Override", "0.14_Override\0.14_Override.csproj", "{D8BF7B01-0419-4350-82D8-995FB2B577F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{FBC7EB1F-B7CF-45FC-A596-AB8BB167F5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBC7EB1F-B7CF-45FC-A596-AB8BB167F5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBC7EB1F-B7CF-45FC-A596-AB8BB167F5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BF7B01-0419-4350-82D8-995FB2B577F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BF7B01-0419-4350-82D8-995FB2B577F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BF7B01-0419-4350-82D8-995FB2B577F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BF7B01-0419-4350-82D8-995FB2B577F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
