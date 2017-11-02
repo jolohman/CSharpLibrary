@@ -9,20 +9,22 @@ namespace _0._16_Quiz1
     class Triangle : Shape
     {
         //Constructor
-        public Triangle(int tbase, int height)
+        public Triangle(double tbase, double height)
         {
             this.TBase = tbase;
             this.THeight = height;
         }
 
         //Properties
-        public int TBase { get; set; }
-        public int THeight { get; set; }
+        public double TBase { get; set; }
+        public double THeight { get; set; }
+        public double TArea { get; set; }
 
         //Method
         public override double Area()
         {
-            return 0.5 * TBase * THeight;
+            this.TArea = this.TBase * this.THeight / 2.0;
+            return this.TArea;
         }
     }
 }
