@@ -32,14 +32,37 @@ namespace _0._16_Quiz1
             //My Attempt at LINQ(is all in the comments)
             Triangle[] Area = { newTriangle, newTriangle1, newTriangle2, newTriangle3, newTriangle4 };
 
-            IEnumerable<Triangle> query = from a in Area
-                                          where a.Area > 1
-                                          orderby Area ascending
+            IEnumerable<Triangle> query1 = from a in Area
+                                          where a.TArea > 1
+                                          orderby a.TArea ascending
                                           select a;
 
-            foreach (Triangle area in query)
+            foreach (Triangle area in query1)
             {
                 Console.WriteLine(Area);
+            }
+
+
+            //Database of Data(Collection)
+            IEnumerable<Triangle> triangles = new List<Triangle>
+            {
+                newTriangle,
+                newTriangle1,
+                newTriangle2,
+                newTriangle3,
+                newTriangle4
+            };
+
+
+            //Setup query using LINQ
+            IEnumerable<Triangle> query = from t in triangles
+                                          where t.TArea > 14
+                                          orderby t.TArea ascending
+                                          select t;
+
+            foreach (Triangle triangle in query)
+            {
+                Console.WriteLine(triangle.TArea);
             }
 
 
